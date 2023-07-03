@@ -2,7 +2,7 @@
 
 # Java Quiz
 
-This is a quiz about Java programming language. It contains multiple-choice questions with options and their corresponding answers.
+This is a quiz about Java programming language.
 
 ## Questions
 
