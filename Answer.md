@@ -181,5 +181,5 @@
     }
     ```
 
-    - Output: Queen
+    - Output: Queen.
 
