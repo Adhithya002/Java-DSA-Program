@@ -1,5 +1,5 @@
 # Java Quiz
-- DAY-01 TASK
+- DAY-01 TASK-01
 
 ## Questions
 
